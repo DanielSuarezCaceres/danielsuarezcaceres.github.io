@@ -1,6 +1,6 @@
 # main text of home
 title: Daniel Suárez
-bio: A Person who travels the world eating noodles
+bio: Just trying to figure out how life works, and in the meantime I write some code 💻
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -21,7 +21,6 @@ resume-external: true
 resume-url: https://lean-primrose-b44.notion.site/Daniel-Su-rez-resume-67bc74d11140455ca11d09605b4addfa
 
 url: https://danielsuarezcaceres.github.io
-# your url: https://USERNAME.github.io
 
 permalink: /:title/
 
@@ -29,9 +28,9 @@ permalink: /:title/
 # analytics-google: 'UA-MYANALYTICS'
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+# disqus:
+#   shortname: github # enter this from your disqus account
+#   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 instagram: dasua.exe
@@ -47,7 +46,7 @@ authors:
     twitter: johndoe
   jamesfoster:
     name: James Foster
-    bio: A Man who develops software with coffee
+    bio: fdsafa
     external-image: false
     picture: assets/images/james.jpg
     twitter: jamesfoster
@@ -63,6 +62,7 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+setup: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
