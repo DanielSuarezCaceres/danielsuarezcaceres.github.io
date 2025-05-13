@@ -9,26 +9,25 @@ layout: page
 <h2>Coding</h2>
 
 <ul class="skill-list">
-  <li><a href="https://code.visualstudio.com/" target="_blank">VS Code</a><span> - my go-to editor, although I'm slowly transitioning to Zed. I use it with the Palenight theme and Fira Code font.</span></li>
+  <li><a href="https://www.cursor.com/" target="_blank">Cursor</a><span> - my go-to editor (previously VSCode), although I'm slowly transitioning to <a href="https://zed.dev/" target="_blank">Zed</a>. I use it with the Tokyo Night Pro theme and JetBrains Mono font.</span></li>
 	<li><a href="https://www.warp.dev/" target="_blank">Warp</a><span> - been a long-time user of iTerm2, but transitioned to Warp and never went back. The default settings are already pretty good.</span></li>
 	<li><a href="https://paw.cloud/" target="_blank">RapidAPI</a><span> - HTTP client (previously Paw)</span></li>
 	<li><a href="https://orbstack.dev/" target="_blank">OrbStack</a><span> - a Docker Desktop alternative</span></li>
 	<li><a href="https://tableplus.com/" target="_blank">TablePlus</a><span> - Database GUI</span></li>
-	<li><a href="https://www.sourcetreeapp.com/" target="_blank">SourceTree</a><span> - Git GUI</span></li>
+	<li><a href="https://git-fork.com/" target="_blank">Fork</a><span> - Git GUI</span></li>
 </ul>
 
 <h2>Productivity</h2>
 
 <ul>
 	<li><a href="https://www.notion.so/desktop" target="_blank">Notion</a><span> - even though it's an all-in-one, I use it mostly as a personal wiki</span></li>
-	<li><a href="https://www.notion.so/product/calendar" target="_blank">Notion Calendar</a><span> - previously Cron, I like how it's integrated with Notion</span></li>
 	<li><a href="https://apps.apple.com/us/app/be-focused-focus-timer/id973130201" target="_blank">Be Focused</a><span> - a simple pomodoro timer</span></li>
 	<li><a href="https://www.raycast.com/" target="_blank">Raycast</a><span> - shortcuts and workflows (similar to Alfred, but I prefer its UI)</span></li>
 	<li><a href="https://rectangleapp.com/" target="_blank">Rectangle</a><span> - window manager</span></li>
 	<li><a href="https://www.grammarly.com/" target="_blank">Grammarly</a><span> - improve my writing</span></li>
 	<li><a href="https://www.deepl.com/en/translator" target="_blank">DeepL</a><span> - translator</span></li>
-	<li><a href="">Skitch</a><span>- quickly screenshots editor</span></li>
-	<li><a href="https://excalidraw.com/" target="_blank">Excalidraw</a><span> - drawing diagrams and similar</span></li>
+	<li><a href="">Shotter</a><span>- quickly screenshots editor</span></li>
+	<li><a href="https://excalidraw.com/" target="_blank">Excalidraw</a><span> - drawing and sketching</span></li>
 	</ul>
 
 <h2>Tech</h2>

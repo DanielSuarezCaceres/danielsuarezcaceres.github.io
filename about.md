@@ -13,21 +13,17 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML, CSS (Tailwind, Boostrap)</li>
-	<li>Javascript, React</li>
-	<li>Ruby, Rails</li>
-	<li>OOP, Clean Code</li>
+	<li>HTML, CSS, Tailwind, Bootstrap</li>
+	<li>Javascript, React, Stimulus JS</li>
+	<li>Ruby, Rails, Hotwire, Turbo</li>
+	<li>OOP, Clean Code, Event-Driven Architecture</li>
 	<li>TDD, BDD</li>
-	<li>SQL</li>
-	<li>AWS</li>
-	<li>CI/CD</li>
-	<li>Scrum and Agile</li>
+	<li>SQL, REST APIs</li>
+	<li>CI/CD, AWS, Datadog, Sentry</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>Nothing published yet!</li>
 </ul>
