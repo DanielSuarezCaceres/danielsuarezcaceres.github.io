@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-13T13:46:10+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel Suárez</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Example Project</title><link href="http://localhost:4000/example-project/" rel="alternate" type="text/html" title="Example Project" /><published>2024-03-20T00:00:00+01:00</published><updated>2024-03-20T00:00:00+01:00</updated><id>http://localhost:4000/example-project</id><content type="html" xml:base="http://localhost:4000/example-project/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Smart Home Dashboard</title><link href="http://localhost:4000/smart-home-dashboard/" rel="alternate" type="text/html" title="Smart Home Dashboard" /><published>2024-03-20T00:00:00+01:00</published><updated>2024-03-20T00:00:00+01:00</updated><id>http://localhost:4000/smart-home-dashboard</id><content type="html" xml:base="http://localhost:4000/smart-home-dashboard/"><![CDATA[<h2 id="smart-home-dashboard">Smart Home Dashboard</h2>
-
-<p>A modern dashboard that connects to various smart home devices and provides a unified interface for monitoring and control. Built with React and MQTT for real-time communication.</p>
-
-<p><img src="/assets/images/smart-home/dashboard.png" alt="Dashboard Screenshot" /></p>
-
-<h3 id="features">Features</h3>
-<ul>
-  <li>Real-time device monitoring</li>
-  <li>Automated routines</li>
-  <li>Energy consumption tracking</li>
-  <li>Mobile-responsive design</li>
-</ul>
-
-<p><a href="https://github.com/yourusername/smart-home">View on GitHub</a></p>]]></content><author><name>your_name</name></author><category term="project" /><category term="iot" /><category term="react" /><category term="mqtt" /><summary type="html"><![CDATA[A real-time dashboard for monitoring and controlling smart home devices]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/james.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/james.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+01:00</published><updated>2016-02-24T22:48:00+01:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/"><![CDATA[<h2 id="summary">Summary:</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-07-01T16:26:59+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Daniel Suárez</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+01:00</published><updated>2016-02-24T22:48:00+01:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/"><![CDATA[<h2 id="summary">Summary:</h2>
 
 <p>You can pick as item to see how to apply in markdown.</p>
 
